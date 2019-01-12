@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity">
+
+    <yanzhikai.textpath.SyncTextPathView
+        android:id="@+id/text_pathView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:duration="4000"
+        app:pathStrokeColor="#33b5e5"
+        app:showPainter="true"
+        app:text="@string/dummy_content"
+        app:textInCenter="true"
+        app:textSize="35sp" />
+
+</FrameLayout>

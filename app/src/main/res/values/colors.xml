@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00aaaa</color>
+    <color name="colorPrimaryDark">#00aaaa</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+
+    <color name="iron">#CCCCCC</color>
+
+    <color name="loginSignup1colorAccent">#fe5824</color>
+
+    <color name="button_white">@android:color/white</color>
+    <color name="button_yellow">#FFA000</color>
+    <color name="loginSignup1Background">#f1f5f8</color>
+
+    <color name="background_color">#00aaaa</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="red">#FF0000</color>
+</resources>
