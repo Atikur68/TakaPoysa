@@ -12,6 +12,6 @@
         android:id="@+id/txt1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="hello_Earn_fragment" />
+        android:text="hello_Earning_fragment" />
 
 </RelativeLayout>
